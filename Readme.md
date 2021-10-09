@@ -1,6 +1,6 @@
 ## Table Users
 
-| id | chanel_name   | password                         | key_auth | last_session                     |
+| id | channel_name  | password                         | key_auth | last_session                     |
 |----|---------------|----------------------------------|----------|----------------------------------|
 | 1  | Tester        | 5f4dcc3b5aa765d61d8327deb882cf99 | 2190     | c5bb14929981128d5de0da99288ac868 |
 
